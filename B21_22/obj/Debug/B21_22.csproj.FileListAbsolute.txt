@@ -1,0 +1,12 @@
+D:\Skola\4ITS\Programiranje\B zadaci\B21_22\B21_22\bin\Debug\B21_22.exe.config
+D:\Skola\4ITS\Programiranje\B zadaci\B21_22\B21_22\bin\Debug\B21_22.exe
+D:\Skola\4ITS\Programiranje\B zadaci\B21_22\B21_22\bin\Debug\B21_22.pdb
+D:\Skola\4ITS\Programiranje\B zadaci\B21_22\B21_22\obj\Debug\B21_22.csprojAssemblyReference.cache
+D:\Skola\4ITS\Programiranje\B zadaci\B21_22\B21_22\obj\Debug\B21_22.Form1.resources
+D:\Skola\4ITS\Programiranje\B zadaci\B21_22\B21_22\obj\Debug\B21_22.Properties.Resources.resources
+D:\Skola\4ITS\Programiranje\B zadaci\B21_22\B21_22\obj\Debug\B21_22.Radna_mesta.resources
+D:\Skola\4ITS\Programiranje\B zadaci\B21_22\B21_22\obj\Debug\B21_22.csproj.GenerateResource.cache
+D:\Skola\4ITS\Programiranje\B zadaci\B21_22\B21_22\obj\Debug\B21_22.csproj.CoreCompileInputs.cache
+D:\Skola\4ITS\Programiranje\B zadaci\B21_22\B21_22\obj\Debug\B21_22.exe
+D:\Skola\4ITS\Programiranje\B zadaci\B21_22\B21_22\obj\Debug\B21_22.pdb
+D:\Skola\4ITS\Programiranje\B zadaci\B21_22\B21_22\obj\Debug\B21_22.Projekti.resources
